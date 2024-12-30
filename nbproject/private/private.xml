@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/service/ThongKeServiceImpl.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/bean/ThuPhiChungCuTK.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/NhanKhauJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThuPhiViewJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThongKePhiTienIchJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/ChuyenManHinhController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/HoGiaDinhViewJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/HoGiaDinhJFrame.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/ThuPhiController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/dao/ThuPhiDAO.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThongKePhiXeJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/TaiKhoanController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/NhanKhauFunction.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThongKeJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/HoGiaDinhController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/NhanKhauJFrame.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/dao/ThuPhiDAOImpl.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/ThongKeController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/TaiKhoanJFrame2.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThuPhiJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/DichVuController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/dao/ThongKeDAO.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/TrangChuJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/NhanKhauController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/model/ThuPhi.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/TaiKhoanJFrame.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/bean/DanhMucBean.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThuPhiJFrame.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/service/ThuPhiService.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/ThongKePhiChungCuJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/ThuPhiFunction.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/service/ThongKeService.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/bean/ThuPhiXeTK.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/HoGiaDinhJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/LoaiPhiController.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/bean/ThuPhiTienIchTK.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/TaiKhoanFunction.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/utility/ClassTableModel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/controller/HoGiaDinhFunction.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/NhanKhauViewJPanel.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/dao/ThongKeDAOImpl.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/service/ThuPhiServiceImpl.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/dao/DBConnect.java</file>
+            <file>file:/C:/Users/hi/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/Bluemoon/src/com/bluemoon/view/TaiKhoanJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
