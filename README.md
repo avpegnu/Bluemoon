@@ -1,4 +1,3 @@
-# Bài tập lớn học phần Nhập môn CNPM - IT3180
 # Xây dựng phần mềm Quản lý chung cư Bluemoon
 
 ## Giới thiệu
